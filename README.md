@@ -1,11 +1,9 @@
- IPL Data Analysis Dashboard
+IPL Data Analysis Dashboard
  
- This project presents an interactive data visualization dashboard for the Indian Premier League (IPL),
- offering insights into player performance, city-wise match distribution, toss decisions, and team performance metrics.
+ This project presents an interactive data visualization dashboard for the Indian Premier League (IPL), offering insights into player performance, city-wise match distribution, toss decisions, and team performance metrics.
   
   Dashboard Overview
-This IPL Data Analysis Dashboard provides a comprehensive visual summary of Indian Premier League matches from 2008 to 2020.
-The dashboard is designed to uncover patterns in player performance, team success, stadium influence, and toss decisions.
+This IPL Data Analysis Dashboard provides a comprehensive visual summary of Indian Premier League matches from 2008 to 2020.The dashboard is designed to uncover patterns in player performance, team success, stadium influence, and toss decisions.
 
 Key Components:
 - Top 10 Players: A horizontal bar chart ranking players by match performance (e.g., CH Gayle, AB de Villiers).
