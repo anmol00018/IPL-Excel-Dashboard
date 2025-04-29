@@ -22,6 +22,11 @@ Insights
 - Mumbai Indians and Chennai Super Kings lead in match wins.
 - Eden Gardens and M Chinnaswamy Stadium hosted the most matches.
 
+
+![Screenshot 2025-04-14 134950](https://github.com/user-attachments/assets/49fbec00-ac6f-4485-aa7d-4034cf5e64ca)
+
+
+
 Tools Used
 - Microsoft Excel 
 - Data visualization tools: Charts (Bar, Line, Pie)
